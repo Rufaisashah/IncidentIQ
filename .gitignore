@@ -1,0 +1,18 @@
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# TypeScript build output
+dist/
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.DS_Store
